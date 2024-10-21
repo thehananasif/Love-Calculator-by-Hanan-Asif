@@ -4,6 +4,7 @@
 
 Welcome to the Love Calculator! This fun and interactive application allows users to calculate the love compatibility score between two names. Utilizing a unique algorithm that combines ASCII values of the characters in the names, this calculator provides a whimsical percentage score that reflects the love connection.
 
+
 **Features**
 
 • User-friendly interface built with Tkinter for a delightful experience.
@@ -18,7 +19,9 @@ Welcome to the Love Calculator! This fun and interactive application allows user
 
 • Technologies Used Tkinter (for GUI)
 
+
 **Getting Started**
+
 To run the Love Calculator on your local machine, follow these steps:
 
 **Clone the repository:**

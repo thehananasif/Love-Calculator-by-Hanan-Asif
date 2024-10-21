@@ -7,13 +7,32 @@ Welcome to the Love Calculator! This fun and interactive application allows user
 **Features**
 
 • User-friendly interface built with Tkinter for a delightful experience.
+
 • Romantic design elements, including heart emojis, beautiful fonts, and soft colors.
+
 • Dynamic falling hearts animation when the love score exceeds 60%.
+
 • Simple yet effective love score calculation algorithm, enhanced with a touch of randomness for uniqueness.
+
 • Error handling for user inputs to ensure a smooth user experience.
-• Technologies Used
-• Python
-• Tkinter (for GUI)
+
+• Technologies Used Tkinter (for GUI)
+
+**Getting Started**
+To run the Love Calculator on your local machine, follow these steps:
+
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/yourusername/love-calculator.git
+Navigate to the project directory:
+bash
+Copy code
+cd love-calculator
+Run the application:
+bash
+Copy code
+python love_calculator.py
 
 **ScreenShot**
 

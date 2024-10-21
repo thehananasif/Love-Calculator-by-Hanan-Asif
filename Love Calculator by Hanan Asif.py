@@ -1,4 +1,4 @@
-import tkinter as tk
+import tkinter as HananAsif
 from tkinter import messagebox
 import random
 
@@ -56,41 +56,41 @@ def fall_heart(heart):
     move()
 
 # Create GUI window
-root = tk.Tk()
+root = HananAsif.Tk()
 root.title("💖 Love Calculator of Hanan Asif 💖")
 root.geometry("400x500")
 root.configure(bg="misty rose")
 
 # Header with elegant font and romantic colors
-header = tk.Label(root, text="💘 Welcome to the Love Calculator 💘", font=("Lucida Calligraphy", 18, "bold"), bg="misty rose", fg="dark red")
+header = HananAsif.Label(root, text="💘 Welcome to the Love Calculator 💘", font=("Lucida Calligraphy", 18, "bold"), bg="misty rose", fg="dark red")
 header.pack(pady=20)
 
 # Create labels with a romantic theme
-label_name1 = tk.Label(root, text="💖 Your Name:", font=("Georgia", 14), bg="misty rose", fg="purple")
+label_name1 = HananAsif.Label(root, text="💖 Your Name:", font=("Georgia", 14), bg="misty rose", fg="purple")
 label_name1.pack(pady=5)
-label_name2 = tk.Label(root, text="💖 Partner's Name:", font=("Georgia", 14), bg="misty rose", fg="purple")
+label_name2 = HananAsif.Label(root, text="💖 Partner's Name:", font=("Georgia", 14), bg="misty rose", fg="purple")
 label_name2.pack(pady=5)
 
 # Create a frame for the input fields
-input_frame = tk.Frame(root, bg="misty rose")
+input_frame = HananAsif.Frame(root, bg="misty rose")
 input_frame.pack(pady=10)
 
 # Create entry fields with enhanced styling
-entry_name1 = tk.Entry(input_frame, font=("Georgia", 14), bd=0, highlightthickness=2, highlightbackground="light pink", highlightcolor="red", relief="flat", insertbackground="purple")
+entry_name1 = HananAsif.Entry(input_frame, font=("Georgia", 14), bd=0, highlightthickness=2, highlightbackground="light pink", highlightcolor="red", relief="flat", insertbackground="purple")
 entry_name1.pack(pady=5, padx=10, ipady=5)  # Extra padding for a more spacious feel
-entry_name2 = tk.Entry(input_frame, font=("Georgia", 14), bd=0, highlightthickness=2, highlightbackground="light pink", highlightcolor="red", relief="flat", insertbackground="purple")
+entry_name2 = HananAsif.Entry(input_frame, font=("Georgia", 14), bd=0, highlightthickness=2, highlightbackground="light pink", highlightcolor="red", relief="flat", insertbackground="purple")
 entry_name2.pack(pady=5, padx=10, ipady=5)  # Extra padding for a more spacious feel
 
 # Create a beautiful rounded button for calculating love score
-calculate_button = tk.Button(root, text="💞 Calculate Love Score 💞", font=("Helvetica", 14), bg="deep pink", fg="white", command=calculate_love_score, relief="solid", bd=3)
+calculate_button = HananAsif.Button(root, text="💞 Calculate Love Score 💞", font=("Helvetica", 14), bg="deep pink", fg="white", command=calculate_love_score, relief="solid", bd=3)
 calculate_button.pack(pady=20)
 
 # Result label with soft colors and elegant font
-result_label = tk.Label(root, text="", font=("Lucida Calligraphy", 16), bg="misty rose", fg="dark red")
+result_label = HananAsif.Label(root, text="", font=("Lucida Calligraphy", 16), bg="misty rose", fg="dark red")
 result_label.pack(pady=20)
 
 # Canvas for love rain effect (falling hearts)
-canvas = tk.Canvas(root, width=400, height=300, bg="misty rose", highlightthickness=0)
+canvas = HananAsif.Canvas(root, width=400, height=300, bg="misty rose", highlightthickness=0)
 canvas.pack()
 
 # Run the GUI

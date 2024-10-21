@@ -21,9 +21,12 @@ Welcome to the Love Calculator! This fun and interactive application allows user
 **Getting Started**
 To run the Love Calculator on your local machine, follow these steps:
 
-Clone the repository:
+**Clone the repository:**
+
 git clone https://github.com/thehananasif/Love-Calculator-by-Hanan-Asif.git
+
 cd love-calculator
+
 python love_calculator.py
 
 **ScreenShot**

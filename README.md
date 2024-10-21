@@ -22,16 +22,8 @@ Welcome to the Love Calculator! This fun and interactive application allows user
 To run the Love Calculator on your local machine, follow these steps:
 
 Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/love-calculator.git
-Navigate to the project directory:
-bash
-Copy code
+git clone https://github.com/thehananasif/Love-Calculator-by-Hanan-Asif.git
 cd love-calculator
-Run the application:
-bash
-Copy code
 python love_calculator.py
 
 **ScreenShot**

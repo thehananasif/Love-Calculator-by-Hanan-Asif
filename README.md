@@ -24,14 +24,20 @@ Welcome to the Love Calculator! This fun and interactive application allows user
 
 To run the Love Calculator on your local machine, follow these steps:
 
-> [!Basic Commands]
-> Helpful advice for doing things better or more easily.
+**Basic Commands**
 
 > git clone https://github.com/thehananasif/Love-Calculator-by-Hanan-Asif.git
 
 > cd love-calculator
 
 > python love_calculator.py
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
 
 ## **ScreenShot**
 

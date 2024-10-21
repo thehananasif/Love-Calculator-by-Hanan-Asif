@@ -14,3 +14,7 @@ Welcome to the Love Calculator! This fun and interactive application allows user
 • Technologies Used
 • Python
 • Tkinter (for GUI)
+
+**ScreenShot**
+
+![Screenshot](https://github.com/user-attachments/assets/fb8db501-9d08-4d7d-8339-60211c343926)

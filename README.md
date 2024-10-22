@@ -29,4 +29,4 @@ Celebrate Love: If your love score is greater than 60%, enjoy the fun animation 
 
 ## **ScreenShot**
 
-`![Screenshot](https://github.com/user-attachments/assets/fb8db501-9d08-4d7d-8339-60211c343926)`
+![Screenshot](https://github.com/user-attachments/assets/fb8db501-9d08-4d7d-8339-60211c343926)

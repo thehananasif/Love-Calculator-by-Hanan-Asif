@@ -25,6 +25,7 @@ Enter Names: Input your name and your partner's name in the provided fields.
 
 Calculate Love: Click on the "💞 Calculate Love Score 💞" button to generate a love score between 0% and 100%.
                                   ```
+                                  
 Celebrate Love: If your love score is greater than 60%, enjoy the fun animation of hearts falling from the top of the screen!
 
 ## **ScreenShot**

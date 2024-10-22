@@ -2,8 +2,7 @@
 
 **Overview**
 
-Welcome to the Love Calculator! This fun and interactive application allows users to calculate the love compatibility score between two names. Utilizing a unique algorithm that combines ASCII values of the characters in the names, this calculator provides a whimsical percentage score that reflects the love connection.
-
+The Love Calculator by Hanan Asif is a fun and interactive application that calculates the love compatibility score between two people based on their names. With a beautiful, romantic-themed interface and an enhanced algorithm that includes randomness, this app provides a unique and playful love score. When the love score is above 60%, watch as hearts rain down to celebrate the love connection!
 
 ## **Features**
 
@@ -22,14 +21,11 @@ Welcome to the Love Calculator! This fun and interactive application allows user
 
 ## **Getting Started**
 
-To run the Love Calculator on your local machine, follow these steps:
+Enter Names: Input your name and your partner's name in the provided fields.
 
-**Some basic commands are**
-```
-git clone https://github.com/thehananasif/Love-Calculator-by-Hanan-Asif.git
-cd love-calculator
-python love_calculator.py
-```
+Calculate Love: Click on the "💞 Calculate Love Score 💞" button to generate a love score between 0% and 100%.
+                                  ```
+Celebrate Love: If your love score is greater than 60%, enjoy the fun animation of hearts falling from the top of the screen!
 
 ## **ScreenShot**
 
